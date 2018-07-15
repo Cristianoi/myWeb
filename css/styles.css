@@ -1,0 +1,29 @@
+section {
+    text-align: center;
+}
+
+section label {
+    display: inline-block;
+    margin: 0 auto;
+    width: 250px;
+    text-align: left;
+}
+
+.inputbox {
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+}
+
+
+body {
+	font-family:Helvetica, Arial, sans-serif;
+	margin:0;
+	padding:0;
+	font-size:100%;
+}
+
